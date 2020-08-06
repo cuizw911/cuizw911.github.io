@@ -1,4 +1,15 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hello Friend NG</title><link>https://cuizw911.github.io/posts/</link><description>Recent content in Posts on Hello Friend NG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Golang知识点总结</title><link>https://cuizw911.github.io/posts/2020/06/golang%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</link><pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/2020/06/golang%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</guid><description>1. 值类型和引用类型 值类型：变量直接存储，内存通常在栈中分配。
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hello Friend NG</title><link>https://cuizw911.github.io/posts/</link><description>Recent content in Posts on Hello Friend NG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>IDEA插件推荐</title><link>https://cuizw911.github.io/posts/2020/08/idea%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</link><pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/2020/08/idea%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid><description>Free MyBatis plugin free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：
+生成mapper xml文件 快速从代码跳转到mapper及从mapper返回代码 mybatis自动补全及语法错误提示 集成mybatis generator gui界面</description><content type="html"><![CDATA[<h3 id="free-mybatis-plugin">Free MyBatis plugin</h3>
+<blockquote>
+<p>free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：</p>
+<ul>
+<li>生成mapper xml文件</li>
+<li>快速从代码跳转到mapper及从mapper返回代码</li>
+<li>mybatis自动补全及语法错误提示</li>
+<li>集成mybatis generator gui界面</li>
+</ul>
+</blockquote>
+]]></content></item><item><title>Golang知识点总结</title><link>https://cuizw911.github.io/posts/2020/06/golang%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</link><pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/2020/06/golang%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</guid><description>1. 值类型和引用类型 值类型：变量直接存储，内存通常在栈中分配。
 引用类型：变量存储的是一个地址，这个地址存储最终的值。内存通常在堆中分配。通过GC回收。
 go中值类型：基础数据类型int、float、bool、string、数组、结构体
 引用类型：slice、map、channel、interface
@@ -909,16 +920,4 @@ $ vi themes/zafta/layouts/_default/single.html
 </code></pre><p>Notez que nous retirons la logique de la date dans le modèle par défaut et que nous la plaçons dans le modèle des articles. Générez le site web et vérifiez le résultat. Les articles ont leur dates et la page &ldquo;a propos&rdquo; non.</p>
 <h3 id="ne-répètez-pas-cela-vous-même">Ne répètez pas cela vous-même</h3>
 <p>DRY (Don&rsquo;t Repeat Yourself) est un bon objectif de conception et Hugo fait du bon boulot pour supporter cette idée. Une partie de l&rsquo;art du bon modèle est de savoir quand il faut ajouter un nouveau modèle ou quand il faut modifier un existant. Avant de saisir complétement ce principe, faites vous à l&rsquo;idée que vous allez devoir faire de la refactorisation. Hugo rend cela facile et rapide, il est donc préférable de diviser un modèle.</p>
-]]></content></item><item><title/><link>https://cuizw911.github.io/posts/1/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/1/01/</guid><description>IDEA插件推荐 Free MyBatis plugin free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：
-生成mapper xml文件 快速从代码跳转到mapper及从mapper返回代码 mybatis自动补全及语法错误提示 集成mybatis generator gui界面</description><content type="html"><![CDATA[<h1 id="idea插件推荐">IDEA插件推荐</h1>
-<h3 id="free-mybatis-plugin">Free MyBatis plugin</h3>
-<blockquote>
-<p>free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：</p>
-<ul>
-<li>生成mapper xml文件</li>
-<li>快速从代码跳转到mapper及从mapper返回代码</li>
-<li>mybatis自动补全及语法错误提示</li>
-<li>集成mybatis generator gui界面</li>
-</ul>
-</blockquote>
 ]]></content></item></channel></rss>
