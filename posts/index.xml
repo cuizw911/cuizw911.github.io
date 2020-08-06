@@ -909,4 +909,16 @@ $ vi themes/zafta/layouts/_default/single.html
 </code></pre><p>Notez que nous retirons la logique de la date dans le modèle par défaut et que nous la plaçons dans le modèle des articles. Générez le site web et vérifiez le résultat. Les articles ont leur dates et la page &ldquo;a propos&rdquo; non.</p>
 <h3 id="ne-répètez-pas-cela-vous-même">Ne répètez pas cela vous-même</h3>
 <p>DRY (Don&rsquo;t Repeat Yourself) est un bon objectif de conception et Hugo fait du bon boulot pour supporter cette idée. Une partie de l&rsquo;art du bon modèle est de savoir quand il faut ajouter un nouveau modèle ou quand il faut modifier un existant. Avant de saisir complétement ce principe, faites vous à l&rsquo;idée que vous allez devoir faire de la refactorisation. Hugo rend cela facile et rapide, il est donc préférable de diviser un modèle.</p>
+]]></content></item><item><title/><link>https://cuizw911.github.io/posts/1/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/1/01/</guid><description>IDEA插件推荐 Free MyBatis plugin free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：
+生成mapper xml文件 快速从代码跳转到mapper及从mapper返回代码 mybatis自动补全及语法错误提示 集成mybatis generator gui界面</description><content type="html"><![CDATA[<h1 id="idea插件推荐">IDEA插件推荐</h1>
+<h3 id="free-mybatis-plugin">Free MyBatis plugin</h3>
+<blockquote>
+<p>free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：</p>
+<ul>
+<li>生成mapper xml文件</li>
+<li>快速从代码跳转到mapper及从mapper返回代码</li>
+<li>mybatis自动补全及语法错误提示</li>
+<li>集成mybatis generator gui界面</li>
+</ul>
+</blockquote>
 ]]></content></item></channel></rss>
