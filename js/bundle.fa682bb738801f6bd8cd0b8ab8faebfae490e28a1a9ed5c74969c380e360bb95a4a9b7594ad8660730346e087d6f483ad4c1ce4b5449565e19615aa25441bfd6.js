@@ -6,7 +6,7 @@
 const doc = document.documentElement;
 const inline = ":inline";
 // variables read from your hugo configuration
-const parentURL = 'https://example.com/';
+const parentURL = 'https://cuizw911.github.io/';
 let showImagePosition = "false";
 
 const showImagePositionLabel = 'Figure';
