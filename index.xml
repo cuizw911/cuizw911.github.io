@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Clarity</title><link>https://cuizw911.github.io/</link><description>Recent content on Clarity</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2020, all rights reserved.</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Go语言常用文件操作汇总</title><link>https://cuizw911.github.io/post/go-handle-files/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/go-handle-files/</guid><description>&lt;h6 id="一切都是文件">一切都是文件&lt;/h6>
-&lt;blockquote>
-&lt;p>UNIX的基本方面之一是&lt;code>一切都是文件&lt;/code>。我们不一定知道文件描述符所映射的内容，这是由操作系统的设备驱动程序抽象的。操作系统以文件形式为我们提供了到设备的接口。&lt;br>
-Go中的读取器和写入器接口是相似的抽象。我们只需读取和写入字节，而无需了解读取器从何处或如何获取数据或写入器在何处发送数据。
-在/dev中查找可用的设备。 有些将需要提升的特权才能访问。&lt;/p>
-&lt;/blockquote></description></item><item><title>About</title><link>https://cuizw911.github.io/about/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/about/</guid><description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.</description></item><item><title>WSL中配置docker环境</title><link>https://cuizw911.github.io/docker/docker-wsl/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/docker/docker-wsl/</guid><description>&lt;p>由于在wsl中无法安装docker daemon，所以无法在wsl中直接使用docker服务。但是为了体验linux的开发环境，我们可以在wsl中安装docker客户端，并通过连接window系统中的docker daemon服务来使用docker。&lt;/p></description></item><item><title>Golang知识点总结</title><link>https://cuizw911.github.io/post/golang-note/</link><pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/golang-note/</guid><description>&lt;h4 id="1-值类型和引用类型">1. 值类型和引用类型&lt;/h4>
-&lt;ul>
-&lt;li>值类型：变量直接存储，内存通常在栈中分配。&lt;/li>
-&lt;li>引用类型：变量存储的是一个地址，这个地址存储最终的值。内存通常在堆中分配。通过GC回收。&lt;/li>
-&lt;/ul></description></item><item><title>Markdown Syntax Guide</title><link>https://cuizw911.github.io/post/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>文章列表</title><link>https://cuizw911.github.io/archives/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/archives/</guid><description>2020 2020/08/10 WSL中配置docker环境 2020/06/20 Golang知识点总结</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hello Friend NG</title><link>https://cuizw911.github.io/</link><description>Recent content on Hello Friend NG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>IDEA插件推荐</title><link>https://cuizw911.github.io/posts/2020/08/idea%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</link><pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/2020/08/idea%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid><description>Free MyBatis plugin free-idea-mybatis是一款增强idea对mybatis支持的插件，主要功能如下：
+生成mapper xml文件 快速从代码跳转到mapper及从mapper返回代码 mybatis自动补全及语法错误提示 集成mybatis generator gui界面</description></item><item><title>Golang知识点总结</title><link>https://cuizw911.github.io/posts/2020/06/golang%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</link><pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/2020/06/golang%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</guid><description>1. 值类型和引用类型 值类型：变量直接存储，内存通常在栈中分配。
+引用类型：变量存储的是一个地址，这个地址存储最终的值。内存通常在堆中分配。通过GC回收。
+go中值类型：基础数据类型int、float、bool、string、数组、结构体
+引用类型：slice、map、channel、interface
+2. new和make的区别 都在堆上分配内存。
+new：用于各种类型的内存分配，new返回指针，指向新分配的类型的零值。
+make：只用于内建类型（slice、map和channel）的内存分配。make返回的是类型，是经过初始化的值。
+new函数分配内存，make函数初始化，填充适当的值。
+3. 什么是接口 接口是一组只有定义，没有具体实现的方法的集合，任何类型如果实现了接口的所有方法，就认为是实现了这个接口。在go中，接口的实现是隐式的。
+空接口不包含任何方法，所有的类型都实现了空接口，因此，空接口可以存储任何的数据。
+4. 进程、线程和协程的区别 进程是资源的分配和调度的一个独立单元，而线程是CPU调度的基本单元；
+一个进程可以包含多个线程，进程和线程都是由操作系统进行调度。
+协程是比线程更轻量的执行单元，一个线程可以有多个协程。 协程不是由操作系统进行管理，而是完全由程序自己控制。
+5. Goroutine 在Go中，每一个并发的执行单元叫做Goroutine。
+6. channel channel是Go中唯一的线程安全的类型
+channel是Goroutine之间的通信机制。可以传输数据。
+7. select 8. 什么样的字段适合做索引 where条件中经常出现的 重复少的 长度短的 9. 简述一下RESTful API RESTful是API的一种设计规范，符合REST的约束和规则，就是RESTful。
+面向资源，每个URI代表一种资源 通过Json进行数据交互 通过HTTP方法对资源进行操作：GET、POST、PUT、PATCH、DELETE 10. 常用的设计模式 单例模式：保证一个类仅有一个实例，而且自行实例化并向整个系统提供这个实例，这个类称为单例类，它提供全局访问的方法。（创建型模式） 适配器模式：将一个接口转换成客户希望的另一个接口，适配器模式使接口不兼容的那些类可以一起工作，其别名为包装器(Wrapper)。 代理模式： 在某些情况下，一个客户不想或者不能直接引用一个对象，此时可以通过一个称之为“代理”的第三者来实现间接引用。 观察者模式：建立一种对象与对象之间的依赖关系，一个对象发生改变时将自动通知其他对象，其他对象将相应做出反应。</description></item><item><title>About</title><link>https://cuizw911.github.io/about/</link><pubDate>Tue, 22 Oct 2019 18:46:47 +0800</pubDate><guid>https://cuizw911.github.io/about/</guid><description>Hello everyone, I&amp;rsquo;m Cui.
+I am a software engineer who has worked for five years.
+Mainly use Java and Golang for backend development.</description></item><item><title>Création d'un nouveau thème</title><link>https://cuizw911.github.io/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</guid><description>Introduction Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
+Nous allons commencer par créer un nouveau site avec un modèle très basique.</description></item></channel></rss>
