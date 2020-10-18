@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Go on Clarity</title><link>https://cuizw911.github.io/tags/go/</link><description>Recent content in Go on Clarity</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2020, all rights reserved.</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/tags/go/index.xml" rel="self" type="application/rss+xml"/><item><title>Go语言常用文件操作汇总</title><link>https://cuizw911.github.io/post/go-handle-files/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/go-handle-files/</guid><description>&lt;h6 id="一切都是文件">一切都是文件&lt;/h6>
+&lt;blockquote>
+&lt;p>UNIX的基本方面之一是&lt;code>一切都是文件&lt;/code>。我们不一定知道文件描述符所映射的内容，这是由操作系统的设备驱动程序抽象的。操作系统以文件形式为我们提供了到设备的接口。&lt;br>
+Go中的读取器和写入器接口是相似的抽象。我们只需读取和写入字节，而无需了解读取器从何处或如何获取数据或写入器在何处发送数据。
+在/dev中查找可用的设备。 有些将需要提升的特权才能访问。&lt;/p>
+&lt;/blockquote></description></item><item><title>Golang知识点总结</title><link>https://cuizw911.github.io/post/golang-note/</link><pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/golang-note/</guid><description>&lt;h4 id="1-值类型和引用类型">1. 值类型和引用类型&lt;/h4>
+&lt;ul>
+&lt;li>值类型：变量直接存储，内存通常在栈中分配。&lt;/li>
+&lt;li>引用类型：变量存储的是一个地址，这个地址存储最终的值。内存通常在堆中分配。通过GC回收。&lt;/li>
+&lt;/ul></description></item></channel></rss>
