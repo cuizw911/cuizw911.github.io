@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开发语言 on Clarity</title><link>https://cuizw911.github.io/categories/%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80/</link><description>Recent content in 开发语言 on Clarity</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2020, all rights reserved.</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/categories/%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml"/><item><title>Go语言常用文件操作汇总</title><link>https://cuizw911.github.io/post/go-handle-files/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/go-handle-files/</guid><description>&lt;h6 id="一切都是文件">一切都是文件&lt;/h6>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开发语言 on Clarity</title><link>https://cuizw911.github.io/categories/%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80/</link><description>Recent content in 开发语言 on Clarity</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2020, all rights reserved.</copyright><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cuizw911.github.io/categories/%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml"/><item><title>Go语言进制转换</title><link>https://cuizw911.github.io/post/go-base-conversion/</link><pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/go-base-conversion/</guid><description>&lt;p>进制也就是进位制，是人为定义的带进位的计数方法，在我们的日常生活中有很多进制的例子，如：&lt;/p>
+&lt;ul>
+&lt;li>一分钟是六十秒，逢六十进一，就是六十进制；&lt;/li>
+&lt;li>一天是二十四小时，逢二十四进一，就是二十四进制；&lt;/li>
+&lt;li>一周是七天，逢七进一，就是七进制；&lt;/li>
+&lt;li>一年是十二个月，逢十二进一，就是十二进制;&lt;/li>
+&lt;li>数学中逢十进一，就是十进制。&lt;/li>
+&lt;/ul></description></item><item><title>Go语言常用文件操作汇总</title><link>https://cuizw911.github.io/post/go-handle-files/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://cuizw911.github.io/post/go-handle-files/</guid><description>&lt;h6 id="一切都是文件">一切都是文件&lt;/h6>
 &lt;blockquote>
 &lt;p>UNIX的基本方面之一是&lt;code>一切都是文件&lt;/code>。我们不一定知道文件描述符所映射的内容，这是由操作系统的设备驱动程序抽象的。操作系统以文件形式为我们提供了到设备的接口。&lt;br>
 Go中的读取器和写入器接口是相似的抽象。我们只需读取和写入字节，而无需了解读取器从何处或如何获取数据或写入器在何处发送数据。
